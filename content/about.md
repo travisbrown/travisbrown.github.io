@@ -8,7 +8,7 @@ Previously open source at Twitter, machine learning infrastructure at Stripe, an
 
 In 2015 I created a [Scala library](https://github.com/circe/circe) that now has hundreds of contributors, averages around ten million monthly downloads from Maven Central,
 and is often included in lists of favorite Scala libraries.
-Now I mostly write software that nobody uses but me, or that [makes people very angry](https://www.foxnews.com/transcript/tucker-libs-of-tiktok-hit-is-obviously-an-intimidation-campaign), or both.
+These days I mostly write software that nobody uses but me, or that [makes people very angry](https://www.foxnews.com/transcript/tucker-libs-of-tiktok-hit-is-obviously-an-intimidation-campaign), or both.
 
 According to the [Australian Financial Review](https://www.afr.com/politics/how-to-lose-an-election-scomo-style-20220817-p5bai6),
 I played a role in killing Scott Morrison's chances of remaining prime minister in 2022,
