@@ -1,8 +1,7 @@
-{% extends "slim/templates/index.html" %}
+{% extends "slim/templates/page.html" %}
 
-{% block title %}travisbrown.dev{% endblock title %}
+{% block title %}{{ page.title }}{% endblock title%}
 
 {% block extra_head %}
     <link rel="stylesheet" href="{{ get_url(path='style.css', trailing_slash=false) | safe }}">
 {% endblock extra_head %}
-
