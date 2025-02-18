@@ -3,7 +3,7 @@ slug = "about"
 weight = 0
 +++
 
-Software developer based in Berlin, currently working on a project supported by the [Prototype Fund](https://prototypefund.de/en/).
+Software developer based in Berlin.
 Previously open source at Twitter, machine learning infrastructure at Stripe, and an assistant director at [MITH](https://mith.umd.edu/) at the University of Maryland.
 
 In 2015 I created a [Scala library](https://github.com/circe/circe) that now has hundreds of contributors, averages around ten million monthly downloads from Maven Central,
